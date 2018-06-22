@@ -1,0 +1,14 @@
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\Dados.dll
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\Dados.pdb
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\Dapper.dll
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\Dapper.xml
+C:\Users\Alan\Desktop\CrudWebApi\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\CrudWebApi\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\CrudWebApi\Dados\obj\Debug\Dados.dll
+C:\Users\Alan\Desktop\CrudWebApi\Dados\obj\Debug\Dados.pdb
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\Castle.Core.dll
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\System.ValueTuple.dll
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\Castle.Core.xml
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alan\Desktop\CrudWebApi\Dados\bin\Debug\System.ValueTuple.xml

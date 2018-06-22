@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudWebApi", "CrudWebApi\CrudWebApi.csproj", "{AE6BAB21-CBF8-4B48-A0CF-A0D2980694AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dados", "Dados\Dados.csproj", "{2EA944BC-B118-440A-B9AF-8F7E0A64CD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTEst", "UnitTEst\UnitTEst.csproj", "{0A9E7617-AE7C-446A-9335-5398A8B6B181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6BAB21-CBF8-4B48-A0CF-A0D2980694AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6BAB21-CBF8-4B48-A0CF-A0D2980694AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6BAB21-CBF8-4B48-A0CF-A0D2980694AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6BAB21-CBF8-4B48-A0CF-A0D2980694AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA944BC-B118-440A-B9AF-8F7E0A64CD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA944BC-B118-440A-B9AF-8F7E0A64CD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA944BC-B118-440A-B9AF-8F7E0A64CD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA944BC-B118-440A-B9AF-8F7E0A64CD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9E7617-AE7C-446A-9335-5398A8B6B181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9E7617-AE7C-446A-9335-5398A8B6B181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9E7617-AE7C-446A-9335-5398A8B6B181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9E7617-AE7C-446A-9335-5398A8B6B181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAC4D111-172F-4204-8346-3CABF06FE72C}
+	EndGlobalSection
+EndGlobal
